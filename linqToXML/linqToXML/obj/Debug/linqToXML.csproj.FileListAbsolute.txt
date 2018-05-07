@@ -1,0 +1,6 @@
+c:\users\abellini\documents\visual studio 2015\Projects\linqToXML\linqToXML\bin\Debug\linqToXML.exe.config
+c:\users\abellini\documents\visual studio 2015\Projects\linqToXML\linqToXML\bin\Debug\linqToXML.exe
+c:\users\abellini\documents\visual studio 2015\Projects\linqToXML\linqToXML\bin\Debug\linqToXML.pdb
+c:\users\abellini\documents\visual studio 2015\Projects\linqToXML\linqToXML\obj\Debug\linqToXML.csprojResolveAssemblyReference.cache
+c:\users\abellini\documents\visual studio 2015\Projects\linqToXML\linqToXML\obj\Debug\linqToXML.exe
+c:\users\abellini\documents\visual studio 2015\Projects\linqToXML\linqToXML\obj\Debug\linqToXML.pdb
